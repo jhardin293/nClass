@@ -1,0 +1,36 @@
+nClass
+
+An app for students to have access to all of their class related information. 
+
+Students should have access to
+- Schedule 
+- Chat with other students 
+- Access to all school related Documents
+
+Students that are connect to each other should have visibility to.
+- Profile pic 
+- Name 
+- Messaging 
+- Name of university
+- Friends Count 
+- About me
+  - Maybe other listed Categories to help translate a persons likes, ex: Favorite movies, music…
+
+
+Building process 
+#Design 
+  - Responsive wireframes
+    - Grey scale
+    - lo fi
+  - Responsive Hi-fi mock up
+    - Color
+    - Typography
+#Development
+  //Tech stack Gulp,Angular,Jade,Less 
+  - Mock Data
+  - Html version(no styles,interaction)
+  - Desktop version
+  - Mobile/Tablet 
+ 
+
+
