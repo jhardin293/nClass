@@ -31,6 +31,12 @@ Building process
   - Html version(no styles,interaction)
   - Desktop version
   - Mobile/Tablet 
+
+API’s
+Google Calendar - https://developers.google.com/google-apps/calendar/?hl=en
+Google Drive - https://developers.google.com/drive/web/about-sdk
+Rescue Time - https://www.rescuetime.com/anapi/setup/documentation
+
  
 
 
