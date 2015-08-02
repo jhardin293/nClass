@@ -22,6 +22,7 @@ Building process
   - Responsive wireframes
     - Grey scale
     - lo fi
+  - Create style guid
   - Responsive Hi-fi mock up
     - Color
     - Typography
